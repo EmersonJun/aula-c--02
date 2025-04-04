@@ -1,0 +1,14 @@
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\bin\Debug\net9.0\0404.exe
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\bin\Debug\net9.0\0404.deps.json
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\bin\Debug\net9.0\0404.runtimeconfig.json
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\bin\Debug\net9.0\0404.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\bin\Debug\net9.0\0404.pdb
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\obj\Debug\net9.0\0404.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\obj\Debug\net9.0\0404.AssemblyInfoInputs.cache
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\obj\Debug\net9.0\0404.AssemblyInfo.cs
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\obj\Debug\net9.0\0404.csproj.CoreCompileInputs.cache
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\obj\Debug\net9.0\0404.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\obj\Debug\net9.0\refint\0404.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\obj\Debug\net9.0\0404.pdb
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\obj\Debug\net9.0\0404.genruntimeconfig.cache
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\0404\obj\Debug\net9.0\ref\0404.dll
