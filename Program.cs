@@ -4,7 +4,7 @@ using System.Globalization;
 namespace SISTEMADOALUNO
 {
 //cd com a extencao completa, dotnet new com o nome, cd com o nome 
-class program{
+class Program{
     static void Main(String[]args){
         Console.WriteLine("qual o nome do aluno: ");
         String nome = Console.ReadLine();
@@ -19,6 +19,9 @@ class program{
             Console.ReadLine(),
             CultureInfo.InvariantCulture
         );
+
+        ALuno aluno = new ALuno(nome, nota1, nota2);
+        aluno.EXibirResultados();
     }
 }
 }
